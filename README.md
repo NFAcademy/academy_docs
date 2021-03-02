@@ -19,3 +19,13 @@ The JupyterCon 2020 [Catalog Design and Experience](https://docs.google.com/docu
 - user experience
 - about pages for courses
 - links and examples; to-do items
+
+The JupyterCon 2020 [Course Creation Guide](https://docs.google.com/document/d/e/2PACX-1vQgv2b3A_YycktPfK37_XQMlrWj7WhQZIHx57LhCdn3H1XiEXH5OaBk697LuingQmyvxQ3DV_ZlGi49/pub) describes:
+
+- course-creation conventions
+- adding the Jupyter XBlocks
+- adding team members to the course
+- adding course details
+- hiding unused course pages
+- lesssons learned for tutorials CFP to include info for About pages
+- event tracks as courses in the platform
